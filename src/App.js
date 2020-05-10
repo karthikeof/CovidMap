@@ -164,9 +164,6 @@ setData(List(d));
 <Card style={{ width: '10%',backgroundColor: "#ffd4cc",padding: "10px",border: 'none',color: "red",fontFamily: "Bree Serif", fontWeight: 'bold' }}>
 <center><div>Death</div><div> {deaths}</div></center>
 </Card>
-<Card style={{ width: '18%',backgroundColor: "#ebebe0",padding: "10px",border: 'none',color: "#7a7a52",fontFamily: "Bree Serif", fontWeight: 'bold' }}>
-<center><div>Last Updated</div>21 minutes ago<div> </div></center>
-</Card>
 </div>
 </div>
 
